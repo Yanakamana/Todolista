@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #FFFFFF;
   margin: 20px;
   padding: 0;
 }
@@ -19,6 +19,7 @@ table {
   overflow: hidden;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
 
 th, td {
   padding: 12px;
